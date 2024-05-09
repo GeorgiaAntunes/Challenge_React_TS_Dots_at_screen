@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.ButtonStyle{
+  background-color: rgb(207, 204, 204);
+  margin: 12px;
+  border-radius: 2px; 
+}
